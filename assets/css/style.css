@@ -179,7 +179,7 @@ p {
   text-decoration: none;
   background-blend-mode: soft-light;
   background-size: 150%;
-  transition: all 0.5s;
+  transition: all 0.50s;
   font-size: 0.9rem;
 }
 
